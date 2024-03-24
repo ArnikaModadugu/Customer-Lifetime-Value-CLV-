@@ -11,4 +11,4 @@ Application of the Gamma-Gamma model to estimate the variability in the monetary
 Prediction of CLV for individual customers and segmentation based on CLV values.
 
 ## Medium Article:
-[Unveiling Customer Insights: Analyzing Customer Lifetime Value (CLV) using RFM Analysis and the Lifetimes Library] (https://medium.com/@sahithi.arnika/unveiling-customer-insights-analyzing-customer-lifetime-value-clv-using-rfm-analysis-and-the-f029d853ad93)
+(https://medium.com/@sahithi.arnika/unveiling-customer-insights-analyzing-customer-lifetime-value-clv-using-rfm-analysis-and-the-f029d853ad93)
